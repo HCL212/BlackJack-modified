@@ -1,4 +1,4 @@
-## Assignment 2 - JackBlack
+## BlackJack-modified (JackBlack)
 
 JackBlack is a game similar to Blackjack.  The goal is to keep getting cards from the deck without going over 31.  Each player has their own risk in their max hit limit.  There are a varied amount of cards in each deck, and each deck has 3 types of cards.  
   
